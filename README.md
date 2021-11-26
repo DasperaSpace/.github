@@ -1,2 +1,0 @@
-# DasperaSpace
-About us.
